@@ -1,21 +1,21 @@
-basic.showLeds(`
+basic.show_leds("""
     # . # . #
     . # # # .
     . . # . .
     . # . # .
     # . . . #
-    `)
-basic.showLeds(`
+    """)
+basic.show_leds("""
     . . # . #
     . # # # .
     # . # . .
     . # . # .
     # . . . #
-    `)
-basic.showLeds(`
+    """)
+basic.show_leds("""
     # . # . #
     . # # # .
     . . # # #
     . # . . .
     # . . . .
-    `)
+    """)
